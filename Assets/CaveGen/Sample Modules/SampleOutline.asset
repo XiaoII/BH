@@ -14,4 +14,12 @@ MonoBehaviour:
   rockPrefabs:
   - prefab: {fileID: 1001051012328260, guid: bc93e1d8b7bb23b44b4b35fd457c6387, type: 2}
     weight: 1
-  seed: 676912770
+  - prefab: {fileID: 1667281634149844, guid: 8e9e1f270d645574f949503dd4b19298, type: 2}
+    weight: 1
+  - prefab: {fileID: 1836800627851258, guid: de0b28b9043021948ae362cce74e1f8c, type: 2}
+    weight: 1
+  - prefab: {fileID: 1467948837719844, guid: fec009a6688751a4c816c23168253ed6, type: 2}
+    weight: 1
+  - prefab: {fileID: 1889373777609286, guid: b1d869c06ab3e4d4fbad9ea295c68f8a, type: 2}
+    weight: 1
+  seed: 1748950391
