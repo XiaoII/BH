@@ -11,5 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18df1970a90b485438150b452e0202a2, type: 3}
   m_Name: SampleOutline
   m_EditorClassIdentifier: 
-  rockPrefabs: []
-  seed: 0
+  rockPrefabs:
+  - prefab: {fileID: 1001051012328260, guid: bc93e1d8b7bb23b44b4b35fd457c6387, type: 2}
+    weight: 1
+  seed: 676912770

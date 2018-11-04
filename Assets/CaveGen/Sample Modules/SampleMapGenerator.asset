@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Name: SampleMapGenerator
   m_EditorClassIdentifier: 
   properties:
-    length: 200
+    length: 100
     width: 100
     initialMapDensity: 0.51
     expandTunnels: 1
     borderSize: 0
     minWallSize: 50
     minFloorSize: 50
-  seed: 1525109243
+  seed: 676912770

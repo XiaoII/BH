@@ -51,7 +51,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c9bcddcf12018144caa0e5cd8b90cde8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  type: 0
+  type: 1
   threeTierCaveConfig:
     mapGenerator: {fileID: 11400000, guid: 0a7442f49806ff049a463f6b72b0b824, type: 2}
     floorHeightMap: {fileID: 11400000, guid: 2f3bcbbe82b1a3649a239fe2cf90b92c, type: 2}
@@ -63,9 +63,9 @@ MonoBehaviour:
     scale: 2
     caveType: 0
   rockCaveConfig:
-    mapGenerator: {fileID: 0}
-    floorHeightMap: {fileID: 0}
-    outlineModule: {fileID: 0}
+    mapGenerator: {fileID: 11400000, guid: 0a7442f49806ff049a463f6b72b0b824, type: 2}
+    floorHeightMap: {fileID: 11400000, guid: 2f3bcbbe82b1a3649a239fe2cf90b92c, type: 2}
+    outlineModule: {fileID: 11400000, guid: 302f8248087ef6a4cb2a060f08bb3662, type: 2}
     scale: 1
-    material: {fileID: 0}
+    material: {fileID: 2100000, guid: 5f1af1e149bf71c4bb07be261069b455, type: 2}
   randomize: 1
